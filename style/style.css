@@ -671,9 +671,6 @@
     transition: all 0.3s ease-in-out;
 }
 
-
-
-/* Adjust for smaller screens */
 @media (max-width: 768px) {
     .about-us {
         padding-top: 30px !important;
@@ -795,7 +792,4 @@
         text-decoration: none;
         font-size: 18px;
     }
-}
-@media (max-width: 480px) {
-
 }
